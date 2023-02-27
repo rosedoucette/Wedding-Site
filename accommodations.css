@@ -1,0 +1,25 @@
+* {
+    background-color: #F7F4F0;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+    font-family: Yellowtail;
+    font-size: xxx-large;
+    color: #85651B;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    font-family: Amaranth;
+    font-size: larger;
+    color: #85651B;
+}
